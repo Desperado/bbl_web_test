@@ -1,0 +1,14 @@
+#Application url
+:app_url: http://www.check24.de/
+
+:debug: false
+
+#Capybara configuration
+:wait_time: 60
+:default_selector: :css
+:run_server: false
+:ignore_hidden_elements: false
+:match: :prefer_exact
+
+#Site Prism configuration
+:use_implicit_waits: false
